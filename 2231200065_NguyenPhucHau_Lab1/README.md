@@ -1,1 +1,1 @@
-do bị dính onedrive nên bị lỗi đường dẫn quá dài em không thể copy bài Q4ReactNative vào chung được, em xin nộp file zip riêng ạ
+do bị lỗi tùm lum về đường dẫn nên em push lên github không được gọn lắm ạ
